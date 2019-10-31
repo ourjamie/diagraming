@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-31T19:10:51.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="jbH686uL-R56ugV5kGpb" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-31T19:24:02.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="m2_0lIeNH3J9D6laVjAg" version="12.1.9" type="github" pages="1">
   <diagram id="CBbktbOBXvS9cst6_eql" name="Page-1">
-    <mxGraphModel dx="1295" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -71,7 +71,7 @@
             <mxPoint x="-27" y="7" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="11jOBxVTlYkv2niFwlN6-17" value="uk.co.vitality.membermanager" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;strokeColor=#d6b656;fillColor=#F0E3C0;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="11jOBxVTlYkv2niFwlN6-17" value="uk.co.vitality.msa.membermanager" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;strokeColor=#d6b656;fillColor=#F0E3C0;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270" y="514" width="270" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="11jOBxVTlYkv2niFwlN6-12" value="«microservice»&#xa;member-upload" style="shape=component;align=left;spacingLeft=36;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
